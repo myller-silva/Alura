@@ -3,6 +3,7 @@ import Titulo from "../Titulo";
 import Conta from "../Conta";
 import styled from "styled-components";
 import Extrato from "../Extrato";
+import { BtnTema } from "../UI";
 
 const Container = styled.div`
   background-color: ${ ({theme}) => theme.body };
