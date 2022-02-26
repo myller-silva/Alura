@@ -32,11 +32,11 @@ function DadosEntrega({ aoEnviar }) {
           setEndereco(event.target.value);
         }}
         id="endereco"
-        name="endereco"
+        name="endereço"
         label="Enderço"
         type="text"
         variant="outlined"
-        margin="normal"        
+        margin="normal"
         fullWidth
       />
       <TextField
