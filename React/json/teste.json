@@ -1,0 +1,30 @@
+[
+  {
+    "nome": "mac myller",
+    "idade": 23,
+    "trabalhando": false,
+    "hobbies": ["escrever", "desenhar", "ler"],
+    
+    "faculdade": {
+      "semestre": 4,
+      "bolsa": true,
+      "ferias": true,
+      "auxEmergencial": true,
+      "estagio": null
+    }
+  },
+  {
+    "nome": "joao",
+    "idade": 18,
+    "trabalhando": false,
+    "hobbies": ["jogar lol"],
+    
+    "faculdade": {
+      "semestre": 3, 
+      "bolsa": null,
+      "ferias": true,
+      "auxEmergencial": null,
+      "estagio": true
+    }
+  }
+]
